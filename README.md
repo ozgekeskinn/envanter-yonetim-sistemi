@@ -20,7 +20,7 @@ Bu proje, küçük ve orta ölçekli işletmelerin envanterlerini düzenli ve ve
 <li>Projeyi kopyalayın</li>
    <p>Depoyu klonlayın</p>
 <pre>git clone https://github.com/ozgekeskinn/envanter-yonetim-sistemi.git
-     cd envanter-yonetim-sistemi</pre>
+cd envanter-yonetim-sistemi</pre>
 <li>Zenity araçları ile basit bir grafik kullanıcı arayüzü (GUI) sunar, bu da komut satırına aşina olmayan kullanıcıların projeyi rahatça kullanmasını sağlar.</li>
 <li>Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre belirli yetkinlikler verir.Bu sistemde yönetici tam yetkiye sahiptir, kullanıcının yetkileri ise sınırlıdır.</li>
 </ul>
