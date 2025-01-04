@@ -15,13 +15,12 @@ Bu proje, küçük ve orta ölçekli işletmelerin envanterlerini düzenli ve ve
 <h2><span style="Times New Roman">Kurulum</span></h2>
 <p>Proje linux ortamında çalıştırılmak üzere geliştirilmiştir.Kurulum için aşağıda belirtilen adımları izleyin:</p>
 <ul>
-<li>Zenity kurulumunu yapın</li>
+<li>Zenity kurulumunu yapın:</li>
    <p><pre>sudo apt-get install zenity</pre> komutunu terminal ortamında çalıştırın.</p>
-<li>Projeyi kopyalayın</li>
-   <p>Depoyu klonlayın</p>
+<li>Projeyi kopyalayın ve depoyu klonlayın:</li>
 <pre>git clone https://github.com/ozgekeskinn/envanter-yonetim-sistemi.git
 cd envanter-yonetim-sistemi</pre>
-<li>Zenity araçları ile basit bir grafik kullanıcı arayüzü (GUI) sunar, bu da komut satırına aşina olmayan kullanıcıların projeyi rahatça kullanmasını sağlar.</li>
+<li>Çalıştırın:</li>
 <li>Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre belirli yetkinlikler verir.Bu sistemde yönetici tam yetkiye sahiptir, kullanıcının yetkileri ise sınırlıdır.</li>
 </ul>
 
