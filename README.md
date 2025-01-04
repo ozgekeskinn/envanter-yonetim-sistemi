@@ -1,7 +1,8 @@
 # envanter-yonetim-sistemi
 Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemidir.
 
-#Proje Ne İşe Yarıyor?
+**#Proje Ne İşe Yarıyor?**
+
 Projemizde yönetici ve kullanıcı profilleri mevcuttur.Geliştirilen bu sistemde yönetici tam yetkiye sahiptir, kullanıcının yetkileri ise sınırlıdır.Aşağıda kullanıcı ve yöneticinin menü ekranları verilmiştir bunlara göre yetkileri görsellerde mevcuttur.
 
 ![Resim1](https://github.com/user-attachments/assets/7878fce0-9eee-40f4-95d3-c83baa266308)
