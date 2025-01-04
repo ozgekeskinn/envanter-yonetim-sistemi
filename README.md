@@ -4,14 +4,15 @@ Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemi
 <h2><p style="Times New Roman">Proje Ne İşe Yarıyor?</p></h2>
 Bu proje, küçük ve orta ölçekli işletmelerin envanterlerini düzenli ve verimli bir şekilde yönetmeleri için tasarlanmıştır.
 
-<h2><p style="Times New Roman">Proje Özellikleri</p></h2>
+<h2><span style="Times New Roman">Proje Özellikleri</span></h2>
 <ul>
 <li>Ürün Yönetimi: Ürün bilgilerini (isim, kategori, stok miktarı vb.) ekleme, düzenleme ve silme.</li>
 <li>Stok raporları oluşturur.</li>
 <li>Zenity araçları ile basit bir grafik kullanıcı arayüzü (GUI) sunar, bu da komut satırına aşina olmayan kullanıcıların projeyi rahatça kullanmasını sağlar.</li>
 <li>Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre belirli yetkinlikler verir.Bu sistemde yönetici tam yetkiye sahiptir, kullanıcının yetkileri ise sınırlıdır.</li>
 </ul>
-Kullanıcı ve yöneticinin menü ekranları verilmiştir bunlara göre yetkileri görsellerde mevcuttur.
+
+Aşağıda verilen kullanıcı arayüzlerine göre kullanıcıların yetkinlikleri görsellerde verilmiştir:
 <img src="https://github.com/user-attachments/assets/7878fce0-9eee-40f4-95d3-c83baa266308" alt="Resim1" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/d9aa91a2-28af-460b-a6b1-5d475bb94d3a" alt="Resim3" width="150" height="150">
 <h4>Özellikler</h4>
