@@ -12,19 +12,18 @@ Kullanıcılar:
 Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre belirli yetkinlikler verir.Bu sistemde yönetici tam yetkiye sahiptir, kullanıcının yetkileri ise sınırlıdır.Aşağıda kullanıcı ve yöneticinin menü ekranları verilmiştir bunlara göre yetkileri görsellerde mevcuttur.
 <img src="https://github.com/user-attachments/assets/7878fce0-9eee-40f4-95d3-c83baa266308" alt="Resim1" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/d9aa91a2-28af-460b-a6b1-5d475bb94d3a" alt="Resim3" width="150" height="150">
-
-Özellikler
-1.Ürün Ekleme: Kullanıcılar, yeni ürün bilgilerini girmek için bir form doldurarak envanterlerine yeni ürün ekleyebilir
+<h4>Özellikler</h4>
+<ol>
+<li>Ürün Ekleme: Kullanıcılar, yeni ürün bilgilerini girmek için bir form doldurarak envanterlerine yeni ürün ekleyebilir</li>
 <img src="https://github.com/user-attachments/assets/9cb33a69-eff2-465f-a329-d5632361e564" alt="Resim4" width="150" height="150">
-
-2. Ürün Listeleme: Tüm mevcut ürünleri görüntüleyerek envanter durumu hakkında bilgi alabilirler. Ürünler, ad, miktar ve fiyat bilgileri ile listelenir.
-3. Ürün Güncelleme:
+<li>Ürün Listeleme: Tüm mevcut ürünleri görüntüleyerek envanter durumu hakkında bilgi alabilirler. Ürünler, ad, miktar ve fiyat bilgileri ile listelenir.</li>
+<li>Ürün Güncelleme:</li>
    <img src="https://github.com/user-attachments/assets/189603a3-25f9-4e3a-a39c-ff72fe9fb8df" alt="Resim5" width="150" height="150">
-4. Ürün Silme: İstenmeyen veya artık ihtiyaç duyulmayan ürünleri kolayca silerek envanterlerini temiz tutabilirler
+<li>Ürün Silme: İstenmeyen veya artık ihtiyaç duyulmayan ürünleri kolayca silerek envanterlerini temiz tutabilirler</li>
   <img src="https://github.com/user-attachments/assets/29f8a3ac-040b-42c6-aaba-5e924a06eb14" alt="Resim6" width="150" height="150">
-5.Rapor Al: Bu kısımda stokta azalan ürünler ve en yüksek stok miktarına sahip ürünler ekrana yazdırılır.
+<li>Rapor Al: Bu kısımda stokta azalan ürünler ve en yüksek stok miktarına sahip ürünler ekrana yazdırılır.</li>
   <img src="https://github.com/user-attachments/assets/81ed6fda-1533-44d3-9fd3-ed48c01a3c7b" alt="Resim7" width="150" height="150">
-  
+</ol>
 Geliştirilen yazılımın bir diğer özelliği kullanıcı yönetimi panelidir.Bu kısımda aşağıda belirtilen özellikler mevcuttur:
 1.Yeni Kullanıcı Ekle
   <img src="https://github.com/user-attachments/assets/a598ac8c-b2e2-48c5-98eb-fead1f5f4108" alt="Resim8" width="150" height="150">
