@@ -1,12 +1,22 @@
 <h1><b>Envanter Yönetim Sistemi</b></h1>
-Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemidir.
+Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemidir.Bu yazılım ürünlerinizi kolayca yönetmenize ve stok durumunu takip etmenize yardımcı olur.
 
-<h2><p style="Times New Roman">Proje Ne İşe Yarıyor?</p></h2>
+<h2><span style="Times New Roman">Proje Ne İşe Yarıyor?</span></h2>
 Bu proje, küçük ve orta ölçekli işletmelerin envanterlerini düzenli ve verimli bir şekilde yönetmeleri için tasarlanmıştır.
 
 <h2><span style="Times New Roman">Proje Özellikleri</span></h2>
 <ul>
-<li>Ürün Yönetimi: Ürün bilgilerini (isim, kategori, stok miktarı vb.) ekleme, düzenleme ve silme.</li>
+<li>Ürün Yönetimi sağlar.Ürün bilgilerini (isim, kategori, stok miktarı vb.) ekleme, düzenleme ve silme gibi yetkinlikler içerir.</li>
+<li>Stok raporları oluşturur.</li>
+<li>Zenity araçları ile basit bir grafik kullanıcı arayüzü (GUI) sunar, bu da komut satırına aşina olmayan kullanıcıların projeyi rahatça kullanmasını sağlar.</li>
+<li>Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre belirli yetkinlikler verir.Bu sistemde yönetici tam yetkiye sahiptir, kullanıcının yetkileri ise sınırlıdır.</li>
+</ul>
+
+<h2><span style="Times New Roman">Kurulum</span></h2>
+<p>Proje linux ortamında çalıştırılmak üzere geliştirilmiştir.Kurulum için aşağıda belirtilen adımları izleyin:</p>
+<ul>
+<li>Zenity kurulumunu yapın</li>
+   <p>`sudo apt-get install zenity` komutunu terminal ortamında çalıştırın.</p>
 <li>Stok raporları oluşturur.</li>
 <li>Zenity araçları ile basit bir grafik kullanıcı arayüzü (GUI) sunar, bu da komut satırına aşina olmayan kullanıcıların projeyi rahatça kullanmasını sağlar.</li>
 <li>Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre belirli yetkinlikler verir.Bu sistemde yönetici tam yetkiye sahiptir, kullanıcının yetkileri ise sınırlıdır.</li>
