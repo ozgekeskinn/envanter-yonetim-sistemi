@@ -10,6 +10,7 @@ Projemizde yönetici ve kullanıcı profilleri mevcuttur.Geliştirilen bu sistem
 
 ![Resim4](https://github.com/user-attachments/assets/9cb33a69-eff2-465f-a329-d5632361e564)
 
-2. Ürün Listeleme: Tüm mevcut ürünleri görüntüleyerek envanter durumu hakkında anlık bilgi alabilirler. Ürünler, ad, miktar ve fiyat bilgileri ile listelenir.
+2. Ürün Listeleme: Tüm mevcut ürünleri görüntüleyerek envanter durumu hakkında bilgi alabilirler. Ürünler, ad, miktar ve fiyat bilgileri ile listelenir.
 
-   
+3. Ürün Güncelleme:
+   ![Resim5](https://github.com/user-attachments/assets/189603a3-25f9-4e3a-a39c-ff72fe9fb8df)
