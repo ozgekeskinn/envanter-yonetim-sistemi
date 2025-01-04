@@ -14,14 +14,14 @@ Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre b
 <img src="https://github.com/user-attachments/assets/d9aa91a2-28af-460b-a6b1-5d475bb94d3a" alt="Resim3" width="150" height="150">
 <h4>Özellikler</h4>
 <ol>
-<li>Ürün Ekleme: Kullanıcılar, yeni ürün bilgilerini girmek için bir form doldurarak envanterlerine yeni ürün ekleyebilir</li>
+<li><b>Ürün Ekleme:</b> Kullanıcılar, yeni ürün bilgilerini girmek için bir form doldurarak envanterlerine yeni ürün ekleyebilir</li>
 <img src="https://github.com/user-attachments/assets/9cb33a69-eff2-465f-a329-d5632361e564" alt="Resim4" width="150" height="150">
-<li>Ürün Listeleme: Tüm mevcut ürünleri görüntüleyerek envanter durumu hakkında bilgi alabilirler. Ürünler, ad, miktar ve fiyat bilgileri ile listelenir.</li>
-<li>Ürün Güncelleme:</li>
+<li><b>Ürün Listeleme:</b> Tüm mevcut ürünleri görüntüleyerek envanter durumu hakkında bilgi alabilirler. Ürünler, ad, miktar ve fiyat bilgileri ile listelenir.</li>
+<li><b>Ürün Güncelleme:</b></li>
    <img src="https://github.com/user-attachments/assets/189603a3-25f9-4e3a-a39c-ff72fe9fb8df" alt="Resim5" width="150" height="150">
-<li>Ürün Silme: İstenmeyen veya artık ihtiyaç duyulmayan ürünleri kolayca silerek envanterlerini temiz tutabilirler</li>
+<li><b>Ürün Silme:</b> İstenmeyen veya artık ihtiyaç duyulmayan ürünleri kolayca silerek envanterlerini temiz tutabilirler</li>
   <img src="https://github.com/user-attachments/assets/29f8a3ac-040b-42c6-aaba-5e924a06eb14" alt="Resim6" width="150" height="150">
-<li>Rapor Al: Bu kısımda stokta azalan ürünler ve en yüksek stok miktarına sahip ürünler ekrana yazdırılır.</li>
+<li><b>Rapor Al:</b> Bu kısımda stokta azalan ürünler ve en yüksek stok miktarına sahip ürünler ekrana yazdırılır.</li>
   <img src="https://github.com/user-attachments/assets/81ed6fda-1533-44d3-9fd3-ed48c01a3c7b" alt="Resim7" width="150" height="150">
 </ol>
 Geliştirilen yazılımın bir diğer özelliği kullanıcı yönetimi panelidir.Bu kısımda aşağıda belirtilen özellikler mevcuttur:
