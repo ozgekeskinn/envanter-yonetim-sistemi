@@ -2,7 +2,7 @@
 <h1><b>Envanter Yönetim Sistemi</b></h1>
 Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemidir.
 
-<h2><font ="Arial Black">Proje Ne İşe Yarıyor?</font></h2>
+<h2><font ="Times New Roman">Proje Ne İşe Yarıyor?</font></h2>
 Bu proje, küçük ve orta ölçekli işletmelerin envanterlerini düzenli ve verimli bir şekilde yönetmeleri için tasarlanmıştır.
 Kullanıcılar:
 
