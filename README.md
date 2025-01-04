@@ -38,7 +38,8 @@ Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre b
 <li><b>Diske Yedekle:</b></li> Kullanıcı, ürün ve kullanıcı verilerini yedeklemek için “depo.csv” ve “kullanici.csv” dosyalarını diske kaydeder.
 <li><b>Hata Kayıtlarını Göster:</b></li> Sistem hata kayıtlarını görüntüler.
 </ol>
-Son olarak yazılımda kullanıcıların sistemle ilgili deneyimlerini paylaştığı geri bildirim gönderme seçeneği mevcuttur. Bu kısım uygulamanın eksik yönlerinin tamamlanması ve hataların düzeltilmesi amacıyla eklenmiştir.
+<p>Son olarak yazılımda kullanıcıların sistemle ilgili deneyimlerini paylaştığı geri bildirim gönderme seçeneği mevcuttur. Bu kısım uygulamanın eksik yönlerinin tamamlanması ve hataların düzeltilmesi amacıyla eklenmiştir.</p>
+
   <img src="https://github.com/user-attachments/assets/c4499338-b1e5-4568-8341-1a607debba37" alt="Resim10" width="150" height="150">
 
 
