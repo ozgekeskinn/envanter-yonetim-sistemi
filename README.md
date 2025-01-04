@@ -4,19 +4,12 @@ Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemi
 <h2><p style="Times New Roman">Proje Ne İşe Yarıyor?</p></h2>
 Bu proje, küçük ve orta ölçekli işletmelerin envanterlerini düzenli ve verimli bir şekilde yönetmeleri için tasarlanmıştır.
 
-
-Kullanıcılar:
-<ul>
-<li>Ürün ekleme, listeleme, güncelleme ve silme işlemlerini gerçekleştirebilir.</li>
-<li>Stok raporları oluşturabilir (ör. "Stokta Azalan Ürünler" veya "En Yüksek Stok Miktarına Sahip Ürünler").</li>
-<li>Zenity araçları ile basit bir grafik kullanıcı arayüzü (GUI) sunar, bu da komut satırına aşina olmayan kullanıcıların projeyi rahatça kullanmasını sağlar.</li>
-</ul>
-
 <h2><p style="Times New Roman">Proje Özellikleri</p></h2>
 <ul>
 <li>Ürün Yönetimi: Ürün bilgilerini (isim, kategori, stok miktarı vb.) ekleme, düzenleme ve silme.</li>
-<li>Stok raporları oluşturabilir (ör. "Stokta Azalan Ürünler" veya "En Yüksek Stok Miktarına Sahip Ürünler").</li>
+<li>Stok raporları oluşturur.</li>
 <li>Zenity araçları ile basit bir grafik kullanıcı arayüzü (GUI) sunar, bu da komut satırına aşina olmayan kullanıcıların projeyi rahatça kullanmasını sağlar.</li>
+<li>.</li>
 </ul>
 
 Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre belirli yetkinlikler verir.Bu sistemde yönetici tam yetkiye sahiptir, kullanıcının yetkileri ise sınırlıdır.Aşağıda kullanıcı ve yöneticinin menü ekranları verilmiştir bunlara göre yetkileri görsellerde mevcuttur.
