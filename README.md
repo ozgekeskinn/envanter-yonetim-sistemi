@@ -24,12 +24,13 @@ Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre b
 <li><b>Rapor Al:</b> Bu kısımda stokta azalan ürünler ve en yüksek stok miktarına sahip ürünler ekrana yazdırılır.</li>
   <img src="https://github.com/user-attachments/assets/81ed6fda-1533-44d3-9fd3-ed48c01a3c7b" alt="Resim7" width="150" height="150">
 </ol>
-Geliştirilen yazılımın bir diğer özelliği kullanıcı yönetimi panelidir.Bu kısımda aşağıda belirtilen özellikler mevcuttur:
-1.Yeni Kullanıcı Ekle
+<p>Geliştirilen yazılımın bir diğer özelliği kullanıcı yönetimi panelidir.Bu kısımda aşağıda belirtilen özellikler mevcuttur:</p>
+<ol>
+<li>Yeni Kullanıcı Ekle</li>
   <img src="https://github.com/user-attachments/assets/a598ac8c-b2e2-48c5-98eb-fead1f5f4108" alt="Resim8" width="150" height="150">
-2. Kullanıcıları Listeleme
-3. Kullanıcı Güncelleme: Kullanıcı bilgilerini güncelleyerek, erişim ve yetki ayarlarını değiştirebilirler. 
-
+<li>Kullanıcıları Listeleme</li>
+<li>Kullanıcı Güncelleme:</li> Kullanıcı bilgilerini güncelleyerek, erişim ve yetki ayarlarını değiştirebilirler. 
+</ol>
 Geliştirilen yazılımda program yönetimi olarak adlandırılan bir diğer alan mevcuttur.Bu alanda aşağıdaki özellikler vardır:
 1.Diskteki Alanı Göster
   <img src="https://github.com/user-attachments/assets/d0b57de8-b9a0-4f28-92da-301b63a7e573" alt="Resim9" width="150" height="150">
