@@ -11,10 +11,8 @@ Projemizde yönetici ve kullanıcı profilleri mevcuttur.Geliştirilen bu sistem
 <img src="https://github.com/user-attachments/assets/d9aa91a2-28af-460b-a6b1-5d475bb94d3a" alt="Resim3" width="150" height="150">
 
 Özellikler
-
 1.Ürün Ekleme: Kullanıcılar, yeni ürün bilgilerini girmek için bir form doldurarak envanterlerine yeni ürün ekleyebilir
-
-![Resim4](https://github.com/user-attachments/assets/9cb33a69-eff2-465f-a329-d5632361e564)
+<img src="https://github.com/user-attachments/assets/9cb33a69-eff2-465f-a329-d5632361e564" alt="Resim4" width="150" height="150">
 
 2. Ürün Listeleme: Tüm mevcut ürünleri görüntüleyerek envanter durumu hakkında bilgi alabilirler. Ürünler, ad, miktar ve fiyat bilgileri ile listelenir.
 
