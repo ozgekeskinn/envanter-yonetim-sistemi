@@ -26,17 +26,18 @@ Proje yönetici ve kullanıcı profilleri sunarak kullanıcı çeşidine göre b
 </ol>
 <p>Geliştirilen yazılımın bir diğer özelliği kullanıcı yönetimi panelidir.Bu kısımda aşağıda belirtilen özellikler mevcuttur:</p>
 <ol>
-<li>Yeni Kullanıcı Ekle</li>
+<li><b>Yeni Kullanıcı Ekle</b></li>
   <img src="https://github.com/user-attachments/assets/a598ac8c-b2e2-48c5-98eb-fead1f5f4108" alt="Resim8" width="150" height="150">
-<li>Kullanıcıları Listeleme</li>
-<li>Kullanıcı Güncelleme:</li> Kullanıcı bilgilerini güncelleyerek, erişim ve yetki ayarlarını değiştirebilirler. 
+<li><b>Kullanıcıları Listeleme:</b></li>
+<li><b>Kullanıcı Güncelleme:</b></li> Kullanıcı bilgilerini güncelleyerek, erişim ve yetki ayarlarını değiştirebilirler. 
 </ol>
-Geliştirilen yazılımda program yönetimi olarak adlandırılan bir diğer alan mevcuttur.Bu alanda aşağıdaki özellikler vardır:
-1.Diskteki Alanı Göster
+<p>Geliştirilen yazılımda program yönetimi olarak adlandırılan bir diğer alan mevcuttur.Bu alanda aşağıdaki özellikler vardır:</p>
+<ol>
+<li><b>Diskteki Alanı Göster</b></li>
   <img src="https://github.com/user-attachments/assets/d0b57de8-b9a0-4f28-92da-301b63a7e573" alt="Resim9" width="150" height="150">
-2. Diske Yedekle: Kullanıcı, ürün ve kullanıcı verilerini yedeklemek için “depo.csv” ve “kullanici.csv” dosyalarını diske kaydeder.
-3. Hata Kayıtlarını Göster: Sistem hata kayıtlarını görüntüler.
-
+<li><b>Diske Yedekle:</b></li> Kullanıcı, ürün ve kullanıcı verilerini yedeklemek için “depo.csv” ve “kullanici.csv” dosyalarını diske kaydeder.
+<li><b>Hata Kayıtlarını Göster:</b></li> Sistem hata kayıtlarını görüntüler.
+</ol>
 Son olarak yazılımda kullanıcıların sistemle ilgili deneyimlerini paylaştığı geri bildirim gönderme seçeneği mevcuttur. Bu kısım uygulamanın eksik yönlerinin tamamlanması ve hataların düzeltilmesi amacıyla eklenmiştir.
   <img src="https://github.com/user-attachments/assets/c4499338-b1e5-4568-8341-1a607debba37" alt="Resim10" width="150" height="150">
 
