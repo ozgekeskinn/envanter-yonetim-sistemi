@@ -1,4 +1,3 @@
-# envanter-yonetim-sistemi
 <h1><b>Envanter Yönetim Sistemi</b></h1>
 Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemidir.
 
