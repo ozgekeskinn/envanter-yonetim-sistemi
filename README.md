@@ -72,7 +72,8 @@ cd envanter-yonetim-sistemi</pre>
 <h2><span style="Times New Roman">Katkıda Bulunma</span></h2>
 <p>Projeye katkıda bulunmak için bir pull request oluşturun. Geri bildirimlere açığız!</p>
 
-
-
+<h3>Proje Videosu</h3>
+<p>Projenin anlatımı için aşağıdaki linke tıklayabilirsiniz.</p>
+<p><a href="https://drive.google.com/uc?id=18aM--GNP6nLQNMmXYf3Xn2NPvp6bTjk4&export=download">Proje detay</a></p>
 
    
