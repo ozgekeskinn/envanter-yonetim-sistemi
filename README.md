@@ -1,5 +1,5 @@
 <h1><b>Envanter Yönetim Sistemi</b></h1>
-Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemidir.Bu yazılım ürünlerinizi kolayca yönetmenize ve stok durumunu takip etmenize yardımcı olur.
+Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemidir.Geliştirilen bu yazılım ürünlerinizi kolayca yönetmenize ve stok durumunu takip etmenize yardımcı olur.
 
 <h2><span style="Times New Roman">Proje Ne İşe Yarıyor?</span></h2>
 Bu proje, küçük ve orta ölçekli işletmelerin envanterlerini düzenli ve verimli bir şekilde yönetmeleri için tasarlanmıştır.
