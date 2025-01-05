@@ -1,3 +1,7 @@
+<h3>Proje Videosu</h3>
+<p>Projenin anlatımı için aşağıdaki linke tıklayabilirsiniz.</p>
+<p><a href="https://youtu.be/3UTUyo9Zzfw">Proje detay</a></p>
+
 <h1><b>Envanter Yönetim Sistemi</b></h1>
 Proje zenity araçları kullanarak geliştirilmiş bir envanter yönetim sistemidir.Geliştirilen bu yazılım ürünlerinizi kolayca yönetmenize ve stok durumunu takip etmenize yardımcı olur.
 
@@ -72,8 +76,5 @@ cd envanter-yonetim-sistemi</pre>
 <h2><span style="Times New Roman">Katkıda Bulunma</span></h2>
 <p>Projeye katkıda bulunmak için bir pull request oluşturun. Geri bildirimlere açığız!</p>
 
-<h3>Proje Videosu</h3>
-<p>Projenin anlatımı için aşağıdaki linke tıklayabilirsiniz.</p>
-<p><a href="https://youtu.be/3UTUyo9Zzfw">Proje detay</a></p>
 
    
