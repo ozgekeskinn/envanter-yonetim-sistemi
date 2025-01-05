@@ -82,14 +82,8 @@ cd envanter-yonetim-sistemi</pre>
    <p><pre>./envanter_sistemi.sh</pre> komutunu terminal ortamında çalıştırın.</p>
 </ul>
 <h2><span style="Times New Roman">Katkıda Bulunma</span></h2>
-<p>Eğer projeye katkıda bulunmak isterseniz şu adımları izleyebilirsiniz:</p>
-<ul>
-<li>Fork ile projeyi kendi hesabınıza kopyalayın.</li>
-<li>Kendi bilgisayarınıza klonlayın.</li>
-<li>Değişikliklerinizi yapın ve commit edin.</li>
-<li>Push ile değişikliklerinizi GitHub'a yükleyin.</li>
-<li>Pull request oluşturun.</li>
-</ul>
+<p>Projeye katkıda bulunmak için bir pull request oluşturun. Geri bildirimlere açığız!:</p>
+
 
 
 
