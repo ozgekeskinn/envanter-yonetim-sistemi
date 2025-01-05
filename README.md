@@ -82,7 +82,7 @@ cd envanter-yonetim-sistemi</pre>
    <p><pre>./envanter_sistemi.sh</pre> komutunu terminal ortamında çalıştırın.</p>
 </ul>
 <h2><span style="Times New Roman">Katkıda Bulunma</span></h2>
-<p>Projeye katkıda bulunmak için bir pull request oluşturun. Geri bildirimlere açığız!:</p>
+<p>Projeye katkıda bulunmak için bir pull request oluşturun. Geri bildirimlere açığız!</p>
 
 
 
