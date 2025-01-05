@@ -74,6 +74,6 @@ cd envanter-yonetim-sistemi</pre>
 
 <h3>Proje Videosu</h3>
 <p>Projenin anlatımı için aşağıdaki linke tıklayabilirsiniz.</p>
-<p><a href="https://drive.google.com/uc?id=18aM--GNP6nLQNMmXYf3Xn2NPvp6bTjk4&export=download">Proje detay</a></p>
+<p><a href="https://youtu.be/3UTUyo9Zzfw">Proje detay</a></p>
 
    
