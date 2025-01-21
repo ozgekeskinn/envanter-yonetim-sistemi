@@ -1,5 +1,4 @@
-<h3>Github Linki</h3>
-<p><a href="https://github.com/ozgekeskinn/envanter-yonetim-sistemi"></a></p>
+<p><a href="https://github.com/ozgekeskinn/envanter-yonetim-sistemi">Github Linki</a></p>
 <h3>Proje Videosu</h3>
 <p>Projenin anlatımı için aşağıdaki linke tıklayabilirsiniz.</p>
 <p><a href="https://youtu.be/3UTUyo9Zzfw">Proje detay</a></p>
